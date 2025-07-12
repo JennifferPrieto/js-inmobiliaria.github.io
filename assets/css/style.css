@@ -1,6 +1,6 @@
 
 .main-section {
-    background-image: url('/assets/img/img-main.jpeg');
+    background-image: url( 'assets/img/img-main.jpeg');
     background-size: cover; /* La imagen cubrirá todo el ancho y largo */
     background-position: center;
     height: 300px;
